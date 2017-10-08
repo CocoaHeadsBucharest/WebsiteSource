@@ -1,0 +1,25 @@
+name: FAQ
+source:
+  - question: Who can join the community?
+    answer: Anyone who is interested in software development for Apple devices and adheres to our [Code of conduct](/code-of-conduct) can join. We are a community for developers. If you are a big fan of Apple products, but don't have any experience nor any interest in app development, then this is probably not the community for you.
+
+  - question: I've just started learning how to make an iOS app. Can I join?
+    answer: Yes. The community if for everyone who is interested in iOS development. It's not important if you're a senior, junior developer or you just started reading a book about this topic.
+
+  - question: Where do I sign up?
+    answer: Check our [facebook page](https://www.facebook.com/CocoaHeadsBucharest/) to learn about the upcoming meetups, and select "Going" if you want to attend. We ask you to consider carefully if you can attend or not, and update your RSVP accordingly the days before the event, so the organizers can know how many people to expect.
+
+  - question: Does it cost?
+    answer: No. We aim to have the meetups sponsored by copmanies who do iOS development, so that the members don't have to pay anything to attend.
+
+  - question: I want to help. How can I do that?
+    answer: There are many ways to so this, and depends on the amount of time you want to invest. You can help by spreading the word, you can help by having your company sponsor a meetup, you can help by giving a talk, etc. Contact the organziers to show your availability.
+
+  - question: How can I sponsor a meetup?
+    answer: Talk to your company. If your company has a big conference room where we could fit the attendees, we would be happy to have an event at your place. Your company can also help by buying drinks for the event, or maybe pizza / snacks, etc. It's also ok to have the location provided by one company, the drinks by another one and snack by a third company.
+
+  - question: Can my company host a meetup?
+    answer: Yes, if your company has a meeting room / conference room where we could fit, we will gladly have an event at your place.
+
+  - question: Why another mobile meetup in Bucharest?
+    answer: Because there are no meetups for iOS developers in Bucharest. There's [Google Developers Group](https://www.meetup.com/Google-Developer-Group-Bucharest/), focused on Google technologies, there's [Bucharest Mobile Development Group](https://www.meetup.com/Bucharest-Mobile-Development-Group/), focused on mobile in general (including QA, UX/UI, trends) but mostly Android, but there was no meetup specifcally for iOS developers. Until now :)

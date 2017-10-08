@@ -1,0 +1,27 @@
+baseurl = "http://cocoaheadsbucharest.github.io/"
+title = "CocoaHeads"
+canonifyurls = true
+paginate = 10
+theme = "startbootstrap-clean-blog"
+languageCode = "en-us"
+copyright = "Made with [Hugo](https://gohugo.io/), using the [StartBoostrap Clean Blog](https://github.com/humboldtux/startbootstrap-clean-blog) theme"
+PostSummariesFrontPage = 200
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "Bucharest"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/CocoaHeadsBuh"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/CocoaHeadsBucharest"
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/CocoaHeadsBucharest"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
