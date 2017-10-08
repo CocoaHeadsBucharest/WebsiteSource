@@ -31,7 +31,7 @@ Unacceptable behaviors include harassing, abusive, discriminatory, or derogatory
 
 If you need help, or would like to report an incident, please talk to us directly, contact the organisers, or Twitter DM in confidence:
 
-Twitter: [@CocoaHeadsBuh](https://twitter.com/CocoaHeadsBuh)
+Twitter: [@CocoaHeadsBuch](https://twitter.com/CocoaHeadsBuch)
 
 Organizers: Marius Constantinescu | [@marius_const](https://twitter.com/marius_const) (DMs open)
 

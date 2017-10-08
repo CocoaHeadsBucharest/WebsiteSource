@@ -1,4 +1,4 @@
-baseurl = "http://cocoaheadsbucharest.github.io/"
+baseurl = "https://cocoaheadsbucharest.github.io"
 title = "CocoaHeads"
 canonifyurls = true
 paginate = 10
@@ -13,7 +13,7 @@ PostSummariesFrontPage = 200
 
 [[params.social]]
     title = "twitter"
-    url = "https://twitter.com/CocoaHeadsBuh"
+    url = "https://twitter.com/CocoaHeadsBuch"
 [[params.social]]
     title = "github"
     url = "https://github.com/CocoaHeadsBucharest"
