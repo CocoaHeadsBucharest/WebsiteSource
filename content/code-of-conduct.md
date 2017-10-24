@@ -8,7 +8,7 @@ weight = -170
 +++
 
 
-**All attendees, speakers, sponsors and volunteers at our gatherings are required to agree with the following code of conduct. Organisers will enforce this code, both in online group forums such as Slack, and throughout IRL events.**
+**All attendees, speakers, sponsors and volunteers at our gatherings are required to agree with the following code of conduct. Organisers will enforce this code, both in online group forums such as Meetup or Facebook, and throughout IRL events.**
 
 **TL;DR: Be nice, be considerate, be respectful.**
 
